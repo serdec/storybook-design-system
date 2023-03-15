@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@serdec/design-system-demo",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -73,10 +73,16 @@
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.5.16",
     "@storybook/testing-library": "^0.0.13",
+    "auto": "^10.43.0",
     "chromatic": "^6.17.1",
     "cross-env": "^7.0.3",
     "prettier": "^2.8.4"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0"
+  "_id": "learnstorybook-design-system-template@0.1.0",
+  "description": "design system demo",
+  "main": "dist/index.js",
+  "repository": "https://github.com/serdec/storybook-design-system.git",
+  "author": "@serdec",
+  "license": "MIT"
 }
